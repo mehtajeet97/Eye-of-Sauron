@@ -1,5 +1,6 @@
 # Eye of Sauron
 <br>
+<br>
 Website has multiple features that are listed as below:<br>
 1) Theme : In keeping with LOTR dedication, the 'Middle Earth' font is used. Thematic elements of Fire and Darkness are visible in color contrast.<br>
 2) Responsiveness : The website is responsive for mobile devices. This is achieved with the help of Media Queries for max width of 750px.<br>
